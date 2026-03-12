@@ -1,1 +1,1 @@
-i just code stuff, primarily in python
+<img src="./githubpro.svg" alt="martin's svg file">
